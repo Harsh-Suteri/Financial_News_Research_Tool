@@ -14,3 +14,5 @@ OPENAI_API_KEY=your_api_key_here
 Run the Streamlit Application:
 streamlit run main.py
 The application will open in your browser. You can input URLs or upload a file containing URLs, process them, and ask queries based on the articles.
+![Image Alt](https://github.com/Harsh-Suteri/Cold_Mail_Generator/blob/main/Screenshot%202025-01-23%20141735.png?raw=true
+)
