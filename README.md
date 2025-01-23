@@ -3,7 +3,7 @@ It is a news research tool designed to extract valuable insights from stock mark
 
 How to Run:
 Clone the Repository:
-git clone https://github.com/yourusername/rockybot.git
+git clone url
 
 Navigate to the Project Directory:
 Install Dependencies:
